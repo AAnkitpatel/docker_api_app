@@ -1,0 +1,1064 @@
+2024-03-29 22:55:59,624 - INFO - Received request to deploy image: ubuntu:18.04
+2024-03-29 22:55:59,629 - ERROR - Failed to create container
+2024-03-29 23:01:27,819 - INFO - Received request to deploy image: ubuntu:18.04
+2024-03-29 23:01:27,821 - ERROR - Failed to create container
+2024-03-29 23:03:09,583 - INFO - Received request to deploy image: ubuntu:18.04
+2024-03-29 23:03:09,586 - ERROR - Failed to create container
+2024-03-29 23:09:42,940 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:42,942 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:45,828 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:09:45,828 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:45,831 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:48,335 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:09:48,335 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:48,338 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:50,813 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:09:50,813 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:50,817 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:53,337 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:09:53,337 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:53,340 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:55,913 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:09:55,913 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:55,916 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:57,161 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:57,167 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:58,422 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:09:58,422 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:58,425 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:58,570 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:58,572 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:58,766 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:58,768 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:58,954 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:58,956 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:59,126 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:59,128 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:09:59,710 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:09:59,710 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:09:59,712 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:00,921 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:00,922 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:00,924 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:01,066 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:01,066 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:01,068 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:01,363 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:01,363 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:01,366 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:01,676 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:01,676 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:01,678 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:01,861 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:01,861 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:01,863 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:02,213 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:02,213 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:02,217 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:03,496 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:03,496 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:03,499 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:03,706 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:03,706 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:03,708 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:03,946 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:03,946 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:03,948 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:04,361 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:04,361 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:04,364 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:04,387 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:04,387 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:04,390 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:04,719 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:04,719 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:04,721 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:06,018 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:06,018 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:06,024 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:06,269 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:06,269 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:06,273 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:06,452 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:06,453 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:06,455 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:06,921 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:06,922 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:06,926 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:06,945 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:06,945 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:06,950 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:07,193 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:07,193 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:07,196 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:08,598 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:08,598 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:08,601 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:08,812 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:08,812 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:08,815 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:08,943 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:08,943 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:08,945 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:09,441 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:09,441 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:09,443 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:09,481 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:09,482 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:09,489 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:09,959 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:09,959 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:09,962 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:11,026 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:11,026 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:11,029 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:11,329 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:11,330 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:11,333 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:11,445 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:11,445 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:11,453 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:11,914 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:11,914 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:11,919 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:11,992 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:11,992 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:11,994 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:12,434 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:12,434 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:12,438 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:13,505 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:13,506 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:13,508 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:13,834 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:13,834 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:13,837 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:13,965 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:13,965 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:13,970 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:14,372 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:14,372 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:14,375 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:14,457 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:14,458 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:14,460 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:15,177 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:15,177 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:15,180 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:16,037 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:16,038 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:16,040 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:16,285 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:16,285 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:16,287 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:16,437 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:16,437 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:16,440 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:16,888 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:16,888 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:16,892 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:16,928 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:16,928 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:16,931 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:17,671 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:17,671 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:17,673 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:18,501 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:18,501 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:18,503 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:18,796 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:18,796 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:18,799 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:19,057 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:19,057 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:19,062 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:19,405 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:19,405 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:19,407 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:19,458 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:19,458 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:19,461 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:20,187 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:20,187 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:20,190 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:21,002 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:21,002 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:21,005 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:21,332 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:21,332 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:21,334 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:21,504 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:21,504 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:21,512 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:21,899 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:21,899 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:21,901 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:21,958 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:21,959 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:21,962 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:22,706 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:22,706 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:22,709 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:23,531 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:23,532 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:23,534 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:23,845 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:23,846 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:23,848 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:24,085 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:24,085 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:24,088 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:24,427 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:24,428 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:24,430 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:24,559 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:24,559 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:24,562 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:25,479 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:25,479 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:25,481 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:26,046 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:26,046 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:26,049 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:26,345 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:26,345 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:26,347 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:26,588 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:26,588 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:26,593 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:26,950 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:26,950 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:26,953 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:27,116 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:27,116 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:27,119 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:28,105 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:28,106 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:28,108 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:28,571 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:28,571 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:28,574 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:28,859 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:28,859 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:28,862 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:29,082 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:29,082 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:29,086 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:29,486 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:29,486 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:29,489 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:29,637 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:29,637 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:29,640 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:30,607 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:30,607 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:30,609 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:31,083 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:31,083 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:31,086 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:31,366 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:31,366 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:31,368 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:31,561 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:31,561 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:31,564 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:32,001 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:32,001 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:32,005 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:32,164 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:32,165 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:32,167 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:33,177 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:33,177 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:33,180 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:33,646 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:33,646 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:33,649 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:33,842 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:33,842 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:33,845 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:34,099 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:34,099 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:34,102 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:34,497 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:34,497 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:34,499 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:34,755 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:34,755 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:34,760 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:35,661 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:35,662 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:35,664 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:36,197 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:36,197 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:36,202 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:36,375 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:36,375 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:36,380 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:36,615 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:36,615 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:36,620 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:37,010 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:37,010 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:37,014 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:37,273 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:37,273 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:37,275 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:38,327 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:38,327 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:38,332 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:38,758 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:38,758 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:38,761 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:38,947 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:38,947 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:38,950 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:39,124 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:39,124 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:39,127 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:39,490 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:39,490 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:39,493 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:40,013 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:40,013 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:40,018 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:40,801 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:40,801 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:40,806 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:41,258 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:41,258 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:41,261 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:41,487 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:41,487 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:41,490 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:41,702 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:41,702 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:41,706 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:42,000 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:42,000 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:42,003 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:42,600 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:42,600 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:42,603 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:43,306 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:43,306 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:43,309 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:43,778 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:43,778 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:43,782 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:44,004 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:44,004 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:44,007 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:44,253 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:44,253 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:44,256 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:44,526 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:44,526 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:44,528 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:45,056 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:45,056 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:45,059 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:45,809 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:45,809 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:45,811 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:46,262 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:46,262 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:46,265 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:46,582 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:46,582 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:46,586 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:46,778 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:46,779 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:46,781 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:46,997 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:46,997 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:47,000 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:47,513 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:47,513 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:47,516 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:48,367 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:48,367 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:48,369 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:48,742 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:48,742 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:48,745 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:49,133 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:49,134 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:49,137 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:49,497 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:49,497 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:49,500 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:49,546 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:49,547 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:49,549 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:50,058 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:50,058 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:50,062 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:50,895 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:50,895 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:50,897 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:51,246 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:51,246 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:51,248 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:51,630 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:51,630 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:51,633 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:52,030 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:52,030 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:52,033 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:52,055 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:52,056 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:52,058 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:52,581 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:52,582 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:52,584 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:10:53,462 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:10:53,463 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:10:53,465 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:00,666 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:00,668 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:03,538 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:03,538 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:03,541 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:06,442 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:06,442 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:06,446 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:07,787 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:07,790 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:08,908 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:08,908 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:08,912 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:10,239 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:10,239 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:10,242 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:11,451 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:11,451 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:11,454 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:12,732 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:12,732 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:12,735 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:13,944 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:13,944 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:13,947 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:15,240 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:15,240 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:15,242 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:16,477 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:16,477 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:16,480 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:16,844 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:16,846 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:17,834 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:17,834 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:17,839 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:19,000 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:19,000 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:19,003 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:19,338 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:19,338 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:19,341 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:20,346 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:20,346 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:20,351 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:21,556 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:21,556 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:21,558 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:21,889 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:21,889 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:21,893 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:22,932 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:22,932 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:22,935 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:24,065 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:24,065 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:24,069 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:24,390 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:24,390 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:24,393 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:25,461 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:25,462 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:25,464 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:26,568 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:26,569 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:26,571 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:26,899 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:26,899 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:26,901 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:27,959 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:27,959 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:27,961 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:29,088 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:29,089 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:29,091 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:29,356 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:29,357 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:29,361 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:30,440 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:30,441 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:30,443 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:31,588 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:31,588 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:31,591 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:31,865 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:31,865 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:31,868 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:32,946 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:32,946 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:32,949 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:34,105 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:34,105 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:34,107 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:34,433 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:34,434 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:34,436 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:35,447 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:35,447 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:35,450 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:36,633 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:36,633 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:36,636 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:36,921 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:36,921 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:36,924 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:37,929 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:37,929 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:37,931 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:39,133 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:39,133 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:39,136 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:39,460 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:39,460 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:39,463 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:40,472 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:40,472 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:40,475 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:41,656 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:41,656 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:41,659 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:41,997 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:41,998 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:42,001 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:43,012 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:43,012 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:43,015 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:44,148 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:44,148 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:44,150 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:44,957 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:44,957 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:44,959 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:45,531 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:45,531 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:45,534 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:46,646 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:46,646 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:46,649 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:47,468 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:47,468 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:47,470 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:48,057 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:48,057 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:48,059 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:49,140 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:49,140 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:49,144 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:50,015 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:50,016 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:50,019 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:50,531 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:50,531 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:50,534 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:51,626 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:51,626 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:51,629 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:52,590 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:52,590 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:52,595 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:53,297 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:53,297 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:53,299 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:54,099 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:54,099 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:54,102 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:55,095 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:55,095 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:55,098 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:55,844 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:55,844 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:55,847 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:56,536 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:56,536 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:56,539 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:57,574 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:57,575 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:57,577 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:58,307 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:58,307 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:58,309 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:12:58,992 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:12:58,992 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:12:58,995 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:00,094 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:00,094 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:00,099 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:00,855 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:00,855 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:00,857 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:01,667 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:01,667 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:01,670 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:02,553 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:02,553 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:02,556 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:03,541 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:03,541 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:03,544 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:04,128 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:04,128 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:04,130 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:05,035 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:05,035 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:05,038 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:06,025 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:06,026 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:06,028 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:06,639 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:06,639 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:06,642 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:07,663 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:07,663 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:07,666 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:08,534 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:08,534 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:08,536 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:09,147 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:09,147 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:09,150 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:10,142 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:10,142 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:10,144 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:10,997 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:10,997 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:11,000 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:11,635 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:11,635 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:11,637 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:12,587 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:12,588 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:12,590 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:13,503 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:13,504 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:13,506 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:14,152 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:14,152 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:14,154 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:15,086 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:15,086 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:15,088 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:16,067 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:16,067 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:16,070 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:16,661 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:16,661 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:16,664 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:17,587 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:17,587 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:17,590 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:18,597 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:18,597 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:18,600 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:19,141 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:19,141 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:19,143 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:20,046 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:20,046 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:20,049 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:21,096 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:21,096 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:21,099 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:21,626 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:21,627 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:21,630 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:22,694 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:22,695 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:22,697 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:23,633 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:23,633 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:23,635 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:24,114 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:24,115 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:24,117 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:25,482 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:25,482 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:25,486 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:26,161 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:26,162 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:26,164 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:26,578 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:26,578 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:26,581 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:27,986 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:27,986 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:27,989 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:28,629 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:28,629 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:28,631 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:29,091 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:29,091 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:29,093 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:30,539 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:30,540 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:30,542 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:31,165 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:31,165 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:31,167 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:31,599 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:31,599 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:31,603 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:33,056 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:33,056 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:33,058 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:33,753 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:33,753 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:33,755 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:34,100 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:34,100 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:34,102 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:35,499 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:35,499 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:35,501 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:36,307 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:36,307 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:36,309 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:36,624 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:36,624 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:36,627 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:38,084 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:38,084 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:38,086 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:38,785 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:38,785 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:38,788 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:39,165 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:39,165 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:39,167 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:40,592 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:40,592 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:40,594 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:41,295 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:41,295 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:41,297 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:41,685 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:41,686 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:41,688 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:43,422 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:43,422 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:43,425 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:43,783 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:43,783 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:43,786 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:44,168 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:44,168 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:44,170 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:45,901 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:45,901 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:45,903 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:46,308 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:46,308 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:46,310 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:46,633 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:46,633 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:46,635 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:48,422 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:48,422 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:48,425 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:48,843 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:48,844 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:48,846 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:49,143 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:49,144 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:49,146 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:50,885 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:50,885 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:50,888 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:51,327 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:51,327 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:51,329 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:51,661 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:51,661 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:51,663 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:53,409 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:53,409 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:53,412 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:53,799 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:53,799 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:53,802 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:54,136 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:54,137 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:54,139 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:55,911 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:55,911 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:55,914 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:56,340 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:56,341 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:56,343 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:56,644 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:56,645 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:56,647 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:58,824 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:58,824 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:58,827 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:58,845 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:58,845 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:58,847 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:13:59,139 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:13:59,139 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:13:59,141 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:01,405 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:01,405 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:01,408 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:01,664 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:01,665 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:01,667 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:02,302 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:02,302 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:02,305 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:03,874 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:03,874 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:03,878 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:04,164 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:04,164 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:04,167 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:04,797 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:04,797 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:04,799 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:06,322 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:06,322 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:06,325 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:06,681 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:06,681 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:06,684 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:07,296 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:07,296 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:07,298 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:08,791 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:08,791 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:08,793 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:09,138 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:09,138 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:09,141 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:09,821 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:09,821 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:09,823 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:11,285 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:11,286 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:11,288 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:11,664 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:11,664 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:11,666 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:12,355 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:12,355 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:12,358 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:13,874 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:13,874 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:13,877 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:14,460 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:14,460 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:14,462 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:14,863 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:14,863 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:14,866 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:16,384 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:16,384 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:16,387 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:16,969 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:16,969 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:16,972 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:17,324 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:17,324 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:17,326 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:18,921 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:18,921 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:18,924 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:19,577 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:19,577 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:19,579 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:19,785 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:19,785 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:19,789 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:21,453 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:21,453 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:21,456 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:22,089 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:22,089 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:22,091 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:22,605 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:22,605 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:22,608 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:24,027 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:24,028 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:24,030 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:24,613 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:24,614 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:24,617 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:25,076 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:25,076 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:25,080 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:26,568 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:26,568 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:26,570 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:27,095 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:27,095 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:27,097 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:27,643 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:27,643 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:27,647 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:29,055 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:29,055 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:29,059 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:29,581 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:29,581 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:29,585 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:30,214 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:30,214 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:30,226 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:31,692 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:31,692 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:31,694 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:32,109 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:32,110 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:32,112 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:32,729 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:32,729 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:32,731 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:34,250 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:34,250 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:34,252 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:34,644 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:34,645 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:34,648 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:35,247 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:35,248 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:35,250 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:36,788 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:36,788 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:36,791 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:37,111 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:37,111 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:37,114 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:37,772 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:37,772 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:37,775 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:39,282 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:39,282 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:39,285 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:39,640 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:39,640 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:39,643 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:40,274 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:40,274 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:40,277 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:41,753 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:41,753 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:41,756 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:42,167 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:42,167 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:42,169 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:42,799 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:42,799 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:42,801 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:44,230 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:44,230 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:44,232 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:44,674 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:44,674 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:44,676 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:45,325 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:45,325 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:45,328 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:47,078 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:47,078 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:47,081 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:47,168 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:47,168 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:47,170 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:47,825 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:47,825 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:47,831 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:49,672 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:49,676 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:49,684 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:49,696 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:49,696 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:49,703 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:50,336 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:50,336 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:50,339 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:52,207 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:52,207 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:52,210 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:52,238 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:52,239 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:52,241 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:52,872 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:52,872 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:52,874 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:54,773 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:54,773 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:54,775 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:54,824 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:54,824 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:54,826 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:55,364 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:55,364 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:55,368 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:57,293 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:57,293 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:57,297 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:57,322 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:57,322 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:57,325 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:57,891 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:57,891 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:57,893 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:59,733 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:59,733 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:59,735 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:14:59,848 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:14:59,848 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:14:59,852 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:15:00,379 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:00,379 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:00,382 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:15:02,340 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:02,340 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:02,342 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:15:02,749 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:02,750 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:02,752 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:15:03,164 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:03,164 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:03,166 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:15:05,168 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:05,168 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:05,171 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:15:06,329 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:06,329 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:06,331 - INFO - Image ubuntu:latest not found, attempting to pull.
+2024-03-29 23:15:06,933 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:06,933 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:07,746 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:07,746 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:08,286 - INFO - Container ubuntu:latest started successfully
+2024-03-29 23:15:08,843 - INFO - Container ubuntu:latest started successfully
+2024-03-29 23:15:08,952 - INFO - Image ubuntu:latest pulled successfully
+2024-03-29 23:15:08,952 - INFO - Received request to deploy image: ubuntu:latest
+2024-03-29 23:15:09,899 - INFO - Container ubuntu:latest started successfully
+2024-03-29 23:27:13,142 - INFO - Received request to deploy image: ubuntu:latest with command: sleep 70
+2024-03-29 23:27:13,971 - INFO - Container ubuntu:latest started successfully
+2024-03-29 23:33:59,507 - INFO - Received request to deploy image: ubuntu:latest with command: sleep 60
+2024-03-29 23:34:00,230 - INFO - Container ubuntu:latest started successfully with ID: c0a37a32c093afea964fdc992d9963572707c32966bdb39d57191d8409ea72b7
+2024-03-29 23:48:22,632 - INFO - Received request to deploy image: ubuntu:latest with command: sleep 60
+2024-03-29 23:48:23,392 - INFO - Container ubuntu:latest started successfully with ID: 6527b68d7aa8536955ff7785f80e7ceee7f4c818d9d4bb4dff1135d1e26ea670
+2024-03-29 23:49:52,677 - INFO - Received request to deploy image: ubuntu:latest with command: sleep 60
+2024-03-29 23:49:53,388 - INFO - Container ubuntu:latest started successfully with ID: 1550de4a7f1061c6bc1afcecdd81d932b0406f156ea4dbfb4c3c17a43099b64e

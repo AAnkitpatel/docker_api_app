@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deploy and Execute Commands in Docker Container</title>
+    <style>
+        body { font-family: Arial, sans-serif; margin: 40px; }
+        .container { max-width: 400px; margin: auto; padding: 20px; border: 1px solid #ddd; border-radius: 5px; }
+        input, button { width: 100%; padding: 10px; margin: 10px 0; border-radius: 5px; border: 1px solid #ccc; }
+        button { background-color: #007bff; color: white; cursor: pointer; }
+        button:hover { background-color: #0056b3; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2>Deploy Docker Container</h2>
+        <input type="text" id="imageName" placeholder="Enter Docker Image Name">
+        <input type="text" id="cmd" placeholder="Enter Initial Command (space-separated if multiple)">
+        <button onclick="deployContainer()">Deploy</button>
+        <div id="deploymentResult"></div>
+    </div>
+
+    <div class="container">
+        <h2>Execute Command in Container</h2>
+        <input type="text" id="containerIdExec" placeholder="Enter Container ID">
+        <input type="text" id="commandExec" placeholder="Enter Command to Execute">
+        <button onclick="executeInContainer()">Execute Command</button>
+        <div id="executionResult"></div>
+    </div>
+
+    <script>
+        // Existing deployContainer function remains the same
+
+        async function executeInContainer() {
+            const containerId = document.getElementById('containerIdExec').value;
+            const command = document.getElementById('commandExec').value; // Command to execute
+            const response = await fetch('/exec/', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json',
+                },
+                body: JSON.stringify({ container_id: containerId, command: command })
+            });
+            const data = await response.json();
+            if (response.ok) {
+                document.getElementById('executionResult').innerText = "Command executed successfully.";
+            } else {
+                document.getElementById('executionResult').innerText = "Failed to execute command: " + data.message;
+            }
+        }
+    </script>
+</body>
+</html>
